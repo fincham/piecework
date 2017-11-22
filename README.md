@@ -1,7 +1,5 @@
 # piecework
 
-**This is a bit of an ugly fork of some open source code we've been building as part of a larger project at work, forked for BSides Wellington 2017. Once we decide how to structure the project better this repo will be replaced by a link to the official one over at [Catalyst](https://github.com/catalyst/).**
-
 ## What is this?
 
 This demo combines both [osquery-controller](https://github.com/fincham/osquery-controller) and [advisory-feeds](https://github.com/fincham/advisory-feeds) to show a realtime feed of what packages are vulnerable to a security advisory on a set of osquery nodes.
