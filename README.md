@@ -4,6 +4,8 @@
 
 This demo combines both [osquery-controller](https://github.com/fincham/osquery-controller) and [advisory-feeds](https://github.com/fincham/advisory-feeds) to show a realtime feed of what packages are vulnerable to a security advisory on a set of osquery nodes.
 
+![Screenshot](https://i.imgur.com/YK9bjD6.png)
+
 ## How do I set it up?
 
 `python-apt` isn't installable easily from pip (it has silent deps on things which are not in PyPi), so you may need to:
