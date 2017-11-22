@@ -38,7 +38,3 @@ An example `stunnel` configuration to do this:
 `stunnel` can then be launched from the directory where the configuration is kept, e.g. by running `stunnel ./stunnel.conf`
 
 Once `stunnel` is runnning then `osqueryd` may connect to `localhost` on port `4433`.
-
-## What is this for?
-
-This shows one way that having machine readable advisory information and realtime host package information can be used to produce actionable security alerts.
